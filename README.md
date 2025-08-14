@@ -2,7 +2,7 @@
   
 # Hi I'm Nikhil Bharne 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+Engineer;DevOps+%26+Platform+Engineer;6%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+Engineer;DevOps+%26+Platform+Engineer;6.5%2B+Years+of+Experience;Mastering+Containerized+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -47,13 +47,39 @@ I'm a DevOps Engineer who is passionate about making open-source more accessible
   <img src="https://logo.svgcdn.com/l/new-relic.svg" alt="New Relic" width="40" height="40"/>
 </p>
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilbharne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilbharne&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilbharne&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+</div>
+
 ---
 
-<h2>ℹ️ &nbsp;Github Info</h2>
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilbharne&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilbharne&show_icons=true&locale=en&hide_border=true" alt="nikita" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilbharne&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
-</details>
+---
 
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilbharne&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Automating Innovation, Accelerating Success" 
+
+![Profile Views](https://komarev.com/ghpvc/?username=nikhilbharne&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/nikhilbharne?label=Follow&style=social)](https://github.com/nikhilbharne)
+
+</div>
