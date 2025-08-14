@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+Engineer;DevOps+%26+Platform+Engineer;6%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
 
 </div>
----
 
 ## 🚀 About Me
 
@@ -26,7 +25,6 @@ I'm a DevOps Engineer who is passionate about making open-source more accessible
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
 </p>
----
 
 ### **Databases & Monitoring**
 <p align="left">
@@ -39,3 +37,4 @@ I'm a DevOps Engineer who is passionate about making open-source more accessible
 </p>
 
 ---
+
