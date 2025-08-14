@@ -20,6 +20,17 @@ I'm a DevOps Engineer who is passionate about making open-source more accessible
 
 ## 🛠️ Tech Stack
 
+### **Languages Framework & Scripting**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  
+</p>
+
 ### **Cloud & DevOps**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/>
@@ -47,6 +58,14 @@ I'm a DevOps Engineer who is passionate about making open-source more accessible
   <img src="https://logo.svgcdn.com/l/new-relic.svg" alt="New Relic" width="40" height="40"/>
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilbharne&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -61,18 +80,10 @@ I'm a DevOps Engineer who is passionate about making open-source more accessible
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilbharne&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
-
----
-
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilbharne&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
-
 ---
 
 <div align="center">
