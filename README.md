@@ -24,6 +24,7 @@ I'm a DevOps Engineer who is passionate about making open-source more accessible
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
 </p>
+---
 
 ### **Databases & Monitoring**
 <p align="left">
