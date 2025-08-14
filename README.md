@@ -84,6 +84,7 @@ I'm a DevOps Engineer who is passionate about making open-source more accessible
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilbharne&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
+
 ---
 
 <div align="center">
