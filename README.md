@@ -10,6 +10,14 @@
 
 I'm a DevOps Engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
+<p align="center">
+<br>
+  <a [href="https://nikhilbharne.online](https://nikhilbharne.online)"><img src="https://img.shields.io/badge/Website-46a2f1?style=for-the-badge&logo=Google-Chrome&logoColor=white"</a> 
+<a href="https://nikhilbharne.online/"><img src="https://img.shields.io/badge/kaggle-icon.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/nikhil-bharne/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:nikhilbharne@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
