@@ -64,7 +64,8 @@ I'm a DevOps Engineer who is passionate about making open-source more accessible
 
 <div align="center">
   <!---<img src="https://github-profile-trophy.vercel.app/?username=nikhilbharne&theme=algolia" alt="GitHub Trophies" >--->
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilbharne&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <!--<img src="https://github-profile-trophy.vercel.app/?username=nikhilbharne&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">-->
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilbharne&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
 
 </div>
