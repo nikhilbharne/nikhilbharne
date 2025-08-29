@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a DevOps Engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
+I'm DevOps Engineer with hands-on experience in cloud platforms (Azure/Aws/GCP), containerization (Docker, Kubernetes), and CI/CD automation. Skilled in optimizing infrastructure, enhancing deployment pipelines, and ensuring system reliability through monitoring and automation.
 
 <p align="center"> 
 <a href="https://nikhilbharne.online/"><img src="https://img.shields.io/badge/Website-46a2f1?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="My Website"/></a>&nbsp;
