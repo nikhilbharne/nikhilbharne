@@ -34,7 +34,7 @@ I'm DevOps Engineer with hands-on experience in cloud platforms (Azure/Aws/GCP),
 ### **Cloud & DevOps**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/download/448307/azure-devops.svg"
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/azuredevops.svg"
      alt="Azure DevOps"
      width="40"
      height="40"
@@ -63,7 +63,6 @@ I'm DevOps Engineer with hands-on experience in cloud platforms (Azure/Aws/GCP),
      width="40"
      height="40"
      style="display:inline-block; vertical-align:middle;" />
-
 <img src="https://cdn.simpleicons.org/newrelic"
      alt="New Relic"
      width="40"
