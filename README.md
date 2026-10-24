@@ -2,7 +2,7 @@
   
 # Hi I'm Nikhil Bharne connect me on nikhilbharne@gmail.com 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+Engineer;DevOps+%26+Platform+Engineer;6.5%2B+Years+of+Experience;Mastering+Containerized+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+Engineer;DevOps+%26+SRE;8+%2B+Years+of+Experience;Mastering+Containerized+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,7 +34,11 @@ I'm DevOps Engineer with hands-on experience in cloud platforms (Azure/Aws/GCP),
 ### **Cloud & DevOps**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/download/448307/azure-devops.svg" alt="azure devops" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/download/448307/azure-devops.svg"
+     alt="Azure DevOps"
+     width="40"
+     height="40"
+     style="display:inline-block; vertical-align:middle;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -54,8 +58,17 @@ I'm DevOps Engineer with hands-on experience in cloud platforms (Azure/Aws/GCP),
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/448390/datadog.svg" alt="Datadog" width="40" height="40"/>
-  <img src="https://logo.svgcdn.com/l/new-relic.svg" alt="New Relic" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/datadog"
+     alt="Datadog"
+     width="40"
+     height="40"
+     style="display:inline-block; vertical-align:middle;" />
+
+<img src="https://cdn.simpleicons.org/newrelic"
+     alt="New Relic"
+     width="40"
+     height="40"
+     style="display:inline-block; vertical-align:middle;" />
 </p>
 
 ---
