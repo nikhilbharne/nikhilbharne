@@ -12,7 +12,7 @@ I'm DevOps Engineer with hands-on experience in cloud platforms (Azure/Aws/GCP),
 
 <p align="center"> 
 <a href="https://nikhilbharne.online/"><img src="https://img.shields.io/badge/Website-46a2f1?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="My Website"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/nikhil-bharne/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/nikhilbharne/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:nikhilbharne@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
