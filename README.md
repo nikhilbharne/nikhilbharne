@@ -74,13 +74,8 @@ I'm DevOps Engineer with hands-on experience in cloud platforms (Azure/Aws/GCP),
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=nikhilbharne&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
-    alt="GitHub Trophies"
-  />
-</div>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nikhilbharne&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" width="100%" /></p>
+
 ---
 
 ## 📊 GitHub Stats
